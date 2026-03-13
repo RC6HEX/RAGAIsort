@@ -71,7 +71,7 @@ API ключ Gemini уже встроен в код (`src/gemini.ts`). Для и
 npm run dev
 ```
 
-Приложение будет доступно по адресу http://localhost:5173
+Приложение будет доступно по адресу http://localhost:3000
 
 ### Сборка для production
 
